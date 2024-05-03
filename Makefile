@@ -1,4 +1,4 @@
-# Set PACS_ROOT to the path where pacs-examples is located
+# Set PACS_ROOT to the path where pacs-examples/Examples is located
 PACS_ROOT = ../pacs-examples/Examples
 
 # compiler and compilation options
