@@ -1,0 +1,17 @@
+Readme is fine.
+
+
+Checklist:
+  - sparse_matrix constructor:   OKAY
+  - compress:                    OKAY
+  - uncompress:                  OKAY
+  - data is properly cleared:    OKAY
+  - call to non-const / const assignment operator: OKAY
+  - resize method:               OKAY
+  - operator*:                   IMPROVABLE
+  - reading from file:           OKAY
+
+EXTRAs
+  Not implemented
+
+General Comments:
